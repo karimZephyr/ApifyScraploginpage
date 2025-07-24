@@ -1,0 +1,6 @@
+2025-07-24T03:00:05.436Z ACTOR: Cloning https://github.com/karimZephyr/ApifyScraploginpage
+2025-07-24T03:00:05.680Z ACTOR: Cloned commit ID: aebd8152670633421f5e0f7fb29628edf275d122
+2025-07-24T03:00:05.688Z ACTOR: Cloned branch name: main
+2025-07-24T03:00:05.693Z ACTOR: Did not find input schema at any of the default locations
+2025-07-24T03:00:05.736Z ACTOR: Building Docker image.
+2025-07-24T03:00:05.752Z ACTOR: ERROR: (HTTP code 400) unexpected - dockerfile parse error on line 1: unknown instruction: {\rtf1\ansi\ansicpg1252\cocoartf2822
