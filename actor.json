@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "buildTag": "latest",
+  "name": "otstmartin-scraper",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "defaultRunOptions": {
+    "build": "latest",
+    "timeoutSecs": 300
+  }
+}
