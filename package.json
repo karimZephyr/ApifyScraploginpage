@@ -6,8 +6,8 @@
     "start": "node main.js"
   },
   "dependencies": {
-    "playwright": "^1.44.0",
-    "crawlee": "^3.13.0",
-    "apify": "^3.4.3"
+    "apify": "^3.4.3",
+    "crawlee": "^3.13.10",
+    "playwright": "^1.44.0"
   }
 }
