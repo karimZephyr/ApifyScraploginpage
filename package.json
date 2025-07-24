@@ -1,13 +1,13 @@
 {
   "name": "otstmartin-scraper",
   "version": "1.0.0",
-  "description": "Scraper avec login sur otstmartin.cevsolutions.fr",
+  "type": "module",
   "scripts": {
     "start": "node main.js"
   },
   "dependencies": {
-    "apify": "^3.4.2",
-    "crawlee": "^3.13.8"
-  },
-  "type": "module"
+    "playwright": "^1.44.0",
+    "crawlee": "^3.13.0",
+    "apify": "^3.4.3"
+  }
 }
